@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Omprakash608  
-🚀 Aspiring Data Analyst | Python | SQL | Azure | Web Development | Open to Internships  
+🚀 Aspiring Data Analyst | Python | SQL | Azure | Web Development | 
+--> Open to Internships  
 
 ## 📌 About Me  
 - 🎯 I’m passionate about real-world data projects and cloud-based solutions.  
